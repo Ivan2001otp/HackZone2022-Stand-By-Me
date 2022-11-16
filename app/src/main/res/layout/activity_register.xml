@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginTop="20dp"
+    tools:context=".RegisterActivity">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+
+        android:id="@+id/username_et"
+        android:maxLength="30"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="6dp"
+        android:hint="Enter username"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="6dp"
+        android:id="@+id/email_et"
+        android:hint="Enter email"
+        android:inputType="textEmailAddress"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/password_et"
+        android:layout_marginTop="10dp"
+        android:hint="Enter number Password"
+        android:inputType="numberPassword"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="6dp"
+        />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_marginTop="35dp"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="register"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="6dp"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        android:id="@+id/Register_btn"
+        />
+        <Button
+            android:backgroundTint="@color/teal_200"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:layout_gravity="center"
+            android:textSize="16sp"
+            android:layout_marginStart="6dp"
+            android:layout_marginEnd="6dp"
+            android:id="@+id/login_btn"
+            />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.appcompat.widget.LinearLayoutCompat>

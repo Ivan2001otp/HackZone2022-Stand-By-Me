@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634464585852",
+    "project_id": "standbyme-1825e",
+    "storage_bucket": "standbyme-1825e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634464585852:android:47b181a5b0172d0b76e1f9",
+        "android_client_info": {
+          "package_name": "com.example.standbyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634464585852-a344gqtkar5det6o5cui2pv8u451unm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMYrj28eyGhmo3dtUZakHcQy7OczoPB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634464585852-a344gqtkar5det6o5cui2pv8u451unm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

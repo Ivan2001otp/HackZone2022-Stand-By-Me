@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/StandByMe/app/src/main/res/drawable/book_slot.xml" value="0.2225" />
+        <entry key="..\:/StandByMe/app/src/main/res/drawable/ic_baseline_video_call_24.xml" value="0.2225" />
+        <entry key="..\:/StandByMe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2225" />
+        <entry key="..\:/StandByMe/app/src/main/res/layout/activity_book_slot_activityr.xml" value="0.22239583333333332" />
+        <entry key="..\:/StandByMe/app/src/main/res/layout/activity_main.xml" value="0.22239583333333332" />
+        <entry key="..\:/StandByMe/app/src/main/res/layout/activity_major.xml" value="0.22239583333333332" />
+        <entry key="..\:/StandByMe/app/src/main/res/layout/activity_register.xml" value="0.22239583333333332" />
+        <entry key="..\:/StandByMe/app/src/main/res/layout/activity_video_chat.xml" value="0.2" />
+        <entry key="..\:/StandByMe/app/src/main/res/layout/todo_row_book_slot.xml" value="0.22239583333333332" />
+        <entry key="..\:/StandByMe/app/src/main/res/menu/major_menu.xml" value="0.1925925925925926" />
+        <entry key="..\:/StandByMe/app/src/main/res/menu/menu.xml" value="0.22239583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
